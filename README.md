@@ -10,3 +10,5 @@ Have a look on this tutorial for doing the OAI redirection :
 
 
 PATCH is in the file asn1_msg.c as : https://github.com/SitrakaResearchAndPOC/oai_redirection/blob/main/asn1_msg_diff.txt
+
+https://hackmd.io/@plachtic/oai
